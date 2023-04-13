@@ -14,8 +14,8 @@ MusicMapper is a command-line application that takes a text file containing a li
 ```pip install -r requirements.txt```
 
 - Create a .env file in the root directory of the project and add your Spotify API credentials
-```SPOTIFY_CLIENT_ID=your_client_id
-SPOTIFY_CLIENT_SECRET=your_client_secret```
+```SPOTIFY_CLIENT_ID=your_client_id ```
+``` SPOTIFY_CLIENT_SECRET=your_client_secret```
 
 ##Usage
 - Create a text file with the list of songs you want to add to the playlist. MusicMapper will auto-format it to the following form:
