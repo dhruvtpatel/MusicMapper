@@ -19,9 +19,7 @@ SPOTIFY_CLIENT_SECRET=your_client_secret```
 
 ##Usage
 - Create a text file with the list of songs you want to add to the playlist. MusicMapper will auto-format it to the following form:
-```Bohemian Rhapsody - Queen
-Stairway to Heaven - Led Zeppelin
-Sweet Child O' Mine - Guns N' Roses```
+```Bohemian Rhapsody - Queen```
 
 - Run the tool using the following command:
 
