@@ -28,3 +28,5 @@ MusicMapper is a command-line application that takes a text file containing a li
 --name specifies the name of the playlist to be created in your Spotify account.
 
 The tool will prompt you to log in to your Spotify account (if you haven't already done so) and grant access to the application.
+
+View an example of it being used for The Acronym's Senior Edition playlist here: https://open.spotify.com/playlist/0KfunDiIBJvMmPVKtA0SRe
