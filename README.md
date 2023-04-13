@@ -1,4 +1,4 @@
-# MusicMapper
+# MusicMapper 🎵
 MusicMapper is a command-line application that takes a text file containing a list of songs and creates a Spotify playlist with those songs. It uses the Spotify API to search for the songs and add them to the playlist.
 
 ## Requirements
